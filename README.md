@@ -1,2 +1,2 @@
-# VectorGBTEST
+# VectorDBTest
 ベクトルDBをテストする
